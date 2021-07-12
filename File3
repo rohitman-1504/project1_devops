@@ -1,2 +1,6 @@
 This is 3rd File
+<<<<<<< HEAD
 This is my local account
+=======
+This is Git world
+>>>>>>> 509dbbcb4ee47100a65410b434f45364414ffec4
